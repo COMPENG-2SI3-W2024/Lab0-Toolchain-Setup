@@ -4,6 +4,7 @@
 #include "./cute/cute_runner.h"
 #include "Question1.h"
 #include <iostream>
+using namespace std;
 
 
 void testQuestion1() {
